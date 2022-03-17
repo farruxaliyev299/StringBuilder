@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.exe
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.deps.json
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.runtimeconfig.json
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.dll
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\bin\Debug\netcoreapp3.1\IndexOf.pdb
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.dll
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.pdb
+C:\Users\DELL\Desktop\Code Academy\StringBuilder\IndexOf\IndexOf\obj\Debug\netcoreapp3.1\IndexOf.genruntimeconfig.cache

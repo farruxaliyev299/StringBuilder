@@ -41,7 +41,7 @@ namespace Reverz
             int i = index;
             for (; i < temp.Length; i++)
             {
-                if (temp[i].ToString() == word)
+                if (temp[i] == word[0])
                 {
                     check = true;
                     break;
@@ -61,7 +61,7 @@ namespace Reverz
             int i = index;
             for (; i < index + count; i++)
             {
-                if (temp[i].ToString() == word)
+                if (temp[i] == word[0])
                 {
                     check = true;
                     break;

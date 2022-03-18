@@ -1,14 +1,14 @@
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.exe
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.deps.json
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.runtimeconfig.json
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.runtimeconfig.dev.json
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.dll
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.pdb
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.csproj.AssemblyReference.cache
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.AssemblyInfoInputs.cache
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.AssemblyInfo.cs
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.csproj.CoreCompileInputs.cache
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.dll
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.pdb
-C:\Users\DELL\Desktop\Code Academy\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.genruntimeconfig.cache
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.exe
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.deps.json
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.runtimeconfig.json
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.runtimeconfig.dev.json
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.dll
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\bin\Debug\netcoreapp3.1\Reverz.pdb
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.csproj.AssemblyReference.cache
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.AssemblyInfoInputs.cache
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.AssemblyInfo.cs
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.csproj.CoreCompileInputs.cache
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.dll
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.pdb
+C:\Users\farrux.aliyev\Desktop\StringBuilder\Reverz\Reverz\obj\Debug\netcoreapp3.1\Reverz.genruntimeconfig.cache

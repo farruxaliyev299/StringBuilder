@@ -1,70 +1,77 @@
-﻿//2.Bir string qebul edib, onu sözbəsöz reverse edən metod yazın. Məs: input - "Ibrahim yaxşı oğlandı" , output - "miharbİ ışxay ıdnalğo"
-//String Builder den istifade eleyib yazdim.
-
-using System;
-using System.Text;
+﻿using System;
 
 namespace Reverz
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            string sb ="Muellim gece-gece yazmisam , aglima basqa yol gelmedi";
-            Console.WriteLine(Reverse(sb));
+            Console.WriteLine(indexof("lam"));
+
+            //Yoxlamaq meqsedi ile:
+            //string a = "Salam";
+            //Console.WriteLine(a.IndexOf("l", 1, 2));
         }
 
-        static string Reverse(string text)
+        static int indexof(string word)
         {
-            StringBuilder text1 = new StringBuilder();
+            string temp = "Salam";
             int i = 0;
-            int tempI = 0;
-            int busStop;
-
-            
-            Eligible:
-                
-                while (text[i].ToString() != " " )
-                {
-                    if (i == text.Length - 1)
-                    {
-                        
-                        break;
-                    }
-                    i++;
-                }
-            busStop = tempI;
-            tempI = i;
-            
-            while (i > busStop)
+            bool check = false;
+            for (; i < temp.Length; i++)
             {
-                if(i== text.Length - 1)
+                if (temp[i] == word[0])
                 {
-                    text1.Append(text[i]);
-                    i--;
-                    
+                    check = true;
+                    break;
                 }
-                else
-                {
-                    i--;
-                }
-                
-                text1.Append(text[i]);
             }
-            text1.Append(" ");
-            
-
-                
-                i = tempI+1;
-
-            if (i != text.Length)
+            if (!check)
             {
-                goto Eligible;
+                return -1;
             }
+            return i;
 
+        }
 
+        static int indexof(string word, int index)
+        {
+            string temp = "Salam";
+            bool check = false;
+            int i = index;
+            for (; i < temp.Length; i++)
+            {
+                if (temp[i].ToString() == word)
+                {
+                    check = true;
+                    break;
+                }
+            }
+            if (!check)
+            {
+                return -1;
+            }
+            return i;
+        }
 
-            return text1.ToString();
+        static int indexof(string word, int index, int count)
+        {
+            string temp = "Salam";
+            bool check = false;
+            int i = index;
+            for (; i < index + count; i++)
+            {
+                if (temp[i].ToString() == word)
+                {
+                    check = true;
+                    break;
+                }
+            }
+            if (!check)
+            {
+                return -1;
+            }
+            return i;
         }
     }
 }

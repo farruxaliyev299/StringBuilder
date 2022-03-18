@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\Code Academy\\StringBuilder\\Reverz\\Reverz\\Reverz.csproj": {}
+    "C:\\Users\\farrux.aliyev\\Desktop\\StringBuilder\\Reverz\\Reverz\\Reverz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\Code Academy\\StringBuilder\\Reverz\\Reverz\\Reverz.csproj": {
+    "C:\\Users\\farrux.aliyev\\Desktop\\StringBuilder\\Reverz\\Reverz\\Reverz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Code Academy\\StringBuilder\\Reverz\\Reverz\\Reverz.csproj",
+        "projectUniqueName": "C:\\Users\\farrux.aliyev\\Desktop\\StringBuilder\\Reverz\\Reverz\\Reverz.csproj",
         "projectName": "Reverz",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\Code Academy\\StringBuilder\\Reverz\\Reverz\\Reverz.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\Code Academy\\StringBuilder\\Reverz\\Reverz\\obj\\",
+        "projectPath": "C:\\Users\\farrux.aliyev\\Desktop\\StringBuilder\\Reverz\\Reverz\\Reverz.csproj",
+        "packagesPath": "C:\\Users\\farrux.aliyev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\farrux.aliyev\\Desktop\\StringBuilder\\Reverz\\Reverz\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\farrux.aliyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

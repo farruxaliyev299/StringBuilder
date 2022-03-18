@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32014.148
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverz", "Reverz\Reverz.csproj", "{C16A4B20-4FAE-4104-A730-E2D0A60878AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverz", "Reverz\Reverz.csproj", "{67C928A6-B14F-4C36-A1D7-EEB3F367CBDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C16A4B20-4FAE-4104-A730-E2D0A60878AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C16A4B20-4FAE-4104-A730-E2D0A60878AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C16A4B20-4FAE-4104-A730-E2D0A60878AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C16A4B20-4FAE-4104-A730-E2D0A60878AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C928A6-B14F-4C36-A1D7-EEB3F367CBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C928A6-B14F-4C36-A1D7-EEB3F367CBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C928A6-B14F-4C36-A1D7-EEB3F367CBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C928A6-B14F-4C36-A1D7-EEB3F367CBDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {416138B3-623D-41B0-8A3D-5FEAB6587894}
+		SolutionGuid = {1AED6804-31D3-45C8-BDB8-91601788559D}
 	EndGlobalSection
 EndGlobal
